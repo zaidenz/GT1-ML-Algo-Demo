@@ -4,7 +4,7 @@
 Professional algorithmic trading system powered by ensemble machine learning
 and advanced market microstructure analysis.
 
-Author: Professional ML Trading System Developer
+Author: Zaiden
 Created: 2025
 License: Proprietary (Demo Version)
 
